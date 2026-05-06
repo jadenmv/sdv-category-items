@@ -1,0 +1,99 @@
+{
+"crops": [
+    {
+    "id": 1,
+    "name": "Blueberry",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/8/84/Blueberry_Stage_6.png"
+    },
+    {
+    "id": 2,
+    "name": "Carrot",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Carrot_Stage_4.png"
+    },
+    {
+    "id": 3,
+    "name": "Cauliflower",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/d/d7/Cauliflower_Stage_6.png"
+    },
+    {
+    "id": 4,
+    "name": "Coffee",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/9/90/Coffee_Stage_6.png"
+    },
+    {
+    "id": 5,
+    "name": "Corn",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Corn_Stage_6.png"
+    },
+    {
+    "id": 6,
+    "name": "Garlic",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Garlic_Stage_5.png"
+    },
+    {
+    "id": 7,
+    "name": "Green Bean",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/2/28/Green_Bean_Stage_7.png"
+    },
+    {
+    "id": 8,
+    "name": "Kale",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Kale_Stage_5.png"
+    },
+    {
+    "id": 9,
+    "name": "Parsnip",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/2/21/Parsnip_Stage_5.png"
+    },
+    {
+    "id": 10,
+    "name": "Potato",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Potato_Stage_6.png"
+    },
+    {
+    "id": 11,
+    "name": "Rhubarb",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/4/48/Rhubarb_Stage_6.png"
+    },
+    {
+    "id": 12,
+    "name": "Strawberry",
+    "img_url": "https://stardewvalleywiki.com/mediawiki/images/4/48/Strawberry_Stage_6.png"
+    }
+],
+"furniture": [
+    {
+    "id": 1,
+    "name": "Post 1",
+    "img_url": ""
+    },
+    {
+    "id": 2,
+    "name": "Post 2",
+    "img_url": ""
+    },
+    {
+    "id": 3,
+    "name": "Post 3",
+    "img_url": ""
+    }
+],
+"equipment": [
+    {
+    "id": 1,
+    "name": "Post 1",
+    "img_url": ""
+    },
+    {
+    "id": 2,
+    "name": "Post 2",
+    "img_url": ""
+    },
+    {
+    "id": 3,
+    "name": "Post 3",
+    "img_url": ""
+    }
+]
+
+}
