@@ -1,6 +1,11 @@
 {
 "crops": [
     {
+        "id": 0,
+        "name": "CategoryIcon",
+        "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/d/d3/Parsnip_Seeds.png"
+    },
+    {
         "id": 1,
         "name": "Blueberry",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/8/84/Blueberry_Stage_6.png"
@@ -63,6 +68,11 @@
 ],
 "furniture": [
     {
+        "id": 0,
+        "name": "CategoryIcon",
+        "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/e/e8/Furniture_Catalogue.png"
+    },
+    {
         "id": 1,
         "name": "Oak Chair",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/2/2a/Oak_Chair.png"
@@ -99,6 +109,11 @@
     }
 ],
 "equipment": [
+    {
+        "id": 0,
+        "name": "CategoryIcon",
+        "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Crafting_Tab.png"
+    },
     {
     "id": 1,
     "name": "Bee House",
