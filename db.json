@@ -1,156 +1,156 @@
 {
 "crops": [
     {
-        "id": 0,
+        "id": 1,
         "name": "CategoryIcon",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/d/d3/Parsnip_Seeds.png"
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Blueberry",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/8/84/Blueberry_Stage_6.png"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Carrot",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Carrot_Stage_4.png"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Cauliflower",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/d/d7/Cauliflower_Stage_6.png"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Coffee",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/9/90/Coffee_Stage_6.png"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Corn",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Corn_Stage_6.png"
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "Garlic",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Garlic_Stage_5.png"
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "Green Bean",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/2/28/Green_Bean_Stage_7.png"
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Kale",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Kale_Stage_5.png"
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Parsnip",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/2/21/Parsnip_Stage_5.png"
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "Potato",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Potato_Stage_6.png"
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Rhubarb",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/4/48/Rhubarb_Stage_6.png"
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Strawberry",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/4/48/Strawberry_Stage_6.png"
     }
 ],
 "furniture": [
     {
-        "id": 0,
+        "id": 1,
         "name": "CategoryIcon",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/e/e8/Furniture_Catalogue.png"
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Oak Chair",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/2/2a/Oak_Chair.png"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Country Lamp",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/f/fd/Country_Lamp.png"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Long Cactus",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/2/27/Long_Cactus.png"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Iridium Krobus",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Iridium_Krobus.png"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Stone Junimo",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/3/31/Stone_Junimo.png"
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "Stardew Hero Trophy",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/b/be/Stardew_Hero_Trophy.png"
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "Small Wizard Bookcase",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/a/af/Small_Wizard_Bookcase.png"
     }
 ],
 "equipment": [
     {
-        "id": 0,
+        "id": 1,
         "name": "CategoryIcon",
         "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Crafting_Tab.png"
     },
     {
-    "id": 1,
+    "id": 2,
     "name": "Bee House",
     "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/c/ce/Bee_House.png"
     },
     {
-    "id": 2,
+    "id": 3,
     "name": "Cask",
     "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/7/7c/Cask.png"
     },
     {
-    "id": 3,
+    "id": 4,
     "name": "Cheese Press",
     "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/7/79/Cheese_Press.png"
     },
     {
-    "id": 4,
+    "id": 5,
     "name": "Dehydrator",
     "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/0/02/Dehydrator.png"
     },
     {
-    "id": 5,
+    "id": 6,
     "name": "Fish Smoker",
     "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/7/79/Fish_Smoker.png"
     },
     {
-    "id": 6,
+    "id": 7,
     "name": "Furnace",
     "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/0/0f/Furnace.png"
     },
     {
-    "id": 7,
+    "id": 8,
     "name": "Loom",
     "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/3/3b/Loom.png"
     },
     {
-    "id": 8,
+    "id": 9,
     "name": "Mayonnaise Machine",
     "imageUrl": "https://stardewvalleywiki.com/mediawiki/images/e/ef/Mayonnaise_Machine.png"
     }
